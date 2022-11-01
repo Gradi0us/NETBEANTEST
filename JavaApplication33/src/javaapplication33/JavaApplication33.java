@@ -16,6 +16,9 @@ public class JavaApplication33 {
      */
     public static void main(String[] args) {
         System.out.println("Haodz");
+         System.out.println("Haodz");
+          System.out.println("Haodz");
+           System.out.println("Haodz");
     }
     
 }
