@@ -20,6 +20,10 @@ public class JavaApplication33 {
           System.out.println("Haodz");
            System.out.println("Haodz");
            //abcd
+           System.out.println("Haodz");
+           
+           
+           
     }
     
 }
